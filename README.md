@@ -20,7 +20,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gautamdewasii&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
-<a href="https://www.kaggle.com/subinium" rel="nofollow"><img src="https://camo.githubusercontent.com/c611b408b2a3091c2497de126ff874ba1d1481199bd1ee12cb01a497dba13b69/68747470733a2f2f726f61642d746f2d6b6167676c652d6772616e646d61737465722e76657263656c2e6170702f6170692f6261646765732f737562696e69756d2f6e6f7465626f6f6b" alt="" data-canonical-src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/gautamdewasi/notebook" style="max-width: 100%;"></a>
+<a href="https://www.kaggle.com/gautamdewasi" rel="nofollow"><img src="https://camo.githubusercontent.com/c611b408b2a3091c2497de126ff874ba1d1481199bd1ee12cb01a497dba13b69/68747470733a2f2f726f61642d746f2d6b6167676c652d6772616e646d61737465722e76657263656c2e6170702f6170692f6261646765732f737562696e69756d2f6e6f7465626f6f6b" alt="" data-canonical-src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/gautamdewasi/notebook" style="max-width: 100%;">
+</a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gautamdewasii&icon=2&color=3)](https://visitcount.itsvg.in)
