@@ -20,7 +20,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gautamdewasii&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/gautamdewasi/competition/light)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/gautamdewasi/competition/light)<br/>
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/gautamdewasi/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/gautamdewasi/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/gautamdewasi/discussion/light)
