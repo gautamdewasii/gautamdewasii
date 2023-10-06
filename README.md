@@ -26,13 +26,12 @@
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/gautamdewasii/Fraud-Transaction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gautamdewasii&repo=Fraud-Transaction&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gautamdewasii&repo=Fraud-Transaction&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Fraud-Transaction" />
 </a>
 
 <a href="https://github.com/gautamdewasii/PlacementPredicition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gautamdewasii&repo=PlacementPredicition&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gautamdewasii&repo=PlacementPredicition&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PlacementPredicition" />
 </a>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gautamdewasii&icon=2&color=3)](https://visitcount.itsvg.in)
