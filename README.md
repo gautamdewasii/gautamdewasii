@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gautamdewasi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gautamdewasiofficial) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20368800) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gautamdewasiofficial) .[![LeetCode](https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png)](https://leetcode.com/gautamdewasiofficial/)
 [![LeetCode user gautamdewasiofficial](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fgautamdewasiofficial&logo=leetcode&logoColor=yellow)](https://leetcode.com/gautamdewasiofficial/)
  <a href="https://leetcode.com/gautamdewasiofficial/">
-<img border="0"src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" width="75" height="20">
+<img border="0" src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" width="75" height="20">
 </a> 
 
 # 💻 Tech Stack:
