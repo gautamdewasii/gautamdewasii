@@ -6,7 +6,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gautamdewasi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gautamdewasiofficial) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20368800) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gautamdewasiofficial)
  <a href="https://leetcode.com/gautamdewasiofficial/">
 <img border="0" src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" width="75" height="20">
-</a> 
+</a>
+<a href="https://www.kaggle.com/gautamdewasi">
+<img border="0" src="https://www.kaggle.com/static/images/site-logo.svg" width="75" height="20">
+</a>
 
 [![LeetCode user gautamdewasiofficial](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fgautamdewasiofficial&logo=leetcode&logoColor=yellow)](https://leetcode.com/gautamdewasiofficial/)
 
@@ -19,9 +22,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gautamdewasii&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
-
-<a href="https://www.kaggle.com/gautamdewasi" rel="nofollow"><img src="https://camo.githubusercontent.com/c611b408b2a3091c2497de126ff874ba1d1481199bd1ee12cb01a497dba13b69/68747470733a2f2f726f61642d746f2d6b6167676c652d6772616e646d61737465722e76657263656c2e6170702f6170692f6261646765732f737562696e69756d2f6e6f7465626f6f6b" alt="" data-canonical-src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/gautamdewasi/notebook" style="max-width: 100%;">
-</a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gautamdewasii&icon=2&color=3)](https://visitcount.itsvg.in)
