@@ -1,7 +1,7 @@
-[![MasterHead](https://www.tumblr.com/mejwh/185887722137)]
+[![MasterHead][https://64.media.tumblr.com/6b9d5fbcc7d6ebe2c3636ed25a550787/f02e19988b551a66-43/s540x810/39cc4bf0a8362783bac5b521db60402238529c64.gifv](https://64.media.tumblr.com/6b9d5fbcc7d6ebe2c3636ed25a550787/f02e19988b551a66-43/s540x810/39cc4bf0a8362783bac5b521db60402238529c64.gifv)
 <h1 align="center">Hi 👋, I'm Gautam</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">
+<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Q4OW4zZWh5dHIydjc4bG5odjVjejJ3N3M1azF4ajR1dWhobnR6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamdewasii&label=Profile%20views&color=0e75b6&style=flat" alt="gautamdewasii" /> </p>
 
