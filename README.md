@@ -8,7 +8,7 @@
 <img border="0" src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" width="75" height="20">
 </a>
 <a href="https://www.kaggle.com/gautamdewasi">
-<img border="0" src="https://www.kaggle.com/static/images/site-logo.svg" width="75" height="20">
+<img border="1" src="https://www.kaggle.com/static/images/site-logo.svg" width="75" height="20">
 </a>
 
 [![LeetCode user gautamdewasiofficial](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fgautamdewasiofficial&logo=leetcode&logoColor=yellow)](https://leetcode.com/gautamdewasiofficial/)
