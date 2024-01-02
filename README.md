@@ -5,7 +5,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gautamdewasi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gautamdewasiofficial) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20368800) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gautamdewasiofficial)
- <a href="https://leetcode.com/gautamdewasiofficial/">
+ <a href="https://leetcode.com/gautamdewasi/">
 <img border="0" src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" width="75" height="20">
 </a>
 <a href="https://www.kaggle.com/gautamdewasi">
