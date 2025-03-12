@@ -1,6 +1,7 @@
 # 💫 About Me:
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdqeXlrbmsxZ2lwN2c1aXIyYnk5M290eW14ajlkN2gydjlmdDloayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" align="right" width="300px" height="200px">
-🔭 I’m currently working on LLMs<br>🌱 I’m currently learning Machine Learning , NLP , LLMs , Python<br>👯 I’m looking to collaborate on NLP and LLMs<br>📝 I regularly write articles on https://medium.com/@gautamdewasiofficial<br>💬 Ask me about ML , Python , C++ , SQL<br>📫 How to reach me gautamdewasiofficial@gmail.com<br>⚡ Fun fact I think I am Funny
+🔭 I’m currently working on LLMs<br>🌱 I’m currently learning Machine Learning , NLP , LLMs , Python<br>👯 I’m looking to collaborate on NLP and LLMs<br>📝 Portfolio: Check out my work at <a href="https://gautamdewasii.github.io/portfolio/">My Portfolio </a>
+<br>💬 Ask me about ML, LLMs, Python <br>⚡ Fun Fact: My code runs perfectly—until I show it to someone. 👀💻
 
 
 ## 🌐 Socials:
